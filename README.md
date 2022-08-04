@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyin" alt="elyin" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shelakh" target="blank"><img src="https://img.shields.io/twitter/follow/shelakh?logo=twitter&style=for-the-badge" alt="shelakh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shelakh92" target="blank"><img src="https://img.shields.io/twitter/follow/shelakh92?logo=twitter&style=for-the-badge" alt="shelakh92" /></a> </p>
 
 - 🔭 I’m currently working on [so_long](https://github.com/eLyiN/so_long)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shelakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelakh" height="30" width="40" /></a>
+<a href="https://twitter.com/shelakh92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelakh92" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrian-arribas-lopera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-arribas-lopera" height="30" width="40" /></a>
 </p>
 
