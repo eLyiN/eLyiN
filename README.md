@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shelakh92" target="blank"><img src="https://img.shields.io/twitter/follow/shelakh92?logo=twitter&style=for-the-badge" alt="shelakh92" /></a> </p>
 
-- 🔭 I’m currently working on [so_long](https://github.com/eLyiN/so_long)
+- 🔭 I’m currently working on [cub3d](https://github.com/eLyiN/cub3d)
 
 - 🌱 I’m currently learning **C#**
 
