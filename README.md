@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shelakh92" target="blank"><img src="https://img.shields.io/twitter/follow/shelakh92?logo=twitter&style=for-the-badge" alt="shelakh92" /></a> </p>
 
-- 🔭 I’m currently working on [cub3d](https://github.com/eLyiN/cub3d)
+- 🔭 I’m currently working on [philosophers](https://github.com/eLyiN/philosophers)
 
 - 🌱 I’m currently learning **C#, C++, Java**
 
-- 📫 How to reach me **staffultimaunion@gmail.com**
+- 📫 How to reach me **aarribas@student.42malaga.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
