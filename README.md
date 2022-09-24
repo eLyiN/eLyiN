@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [cub3d](https://github.com/eLyiN/cub3d)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, C++, Java**
 
 - 📫 How to reach me **staffultimaunion@gmail.com**
 
