@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [philosophers](https://github.com/eLyiN/philosophers)
 
-- 🌱 I’m currently learning **C, C++, Javascript**
+- 🌱 I’m currently learning **C, C++, Java, Python, Javascript**
 
 - 📫 How to reach me **aarribas@student.42malaga.com**
 
