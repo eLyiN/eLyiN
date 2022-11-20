@@ -11,7 +11,7 @@
 
 # Info
 
-- 🌱 I’m currently learning **C, C++, Python and Java.**
+- 🌱 I’m currently learning **C, Javascript, React, Node.js.**
 
 - 📫 How to reach me **staffultimaunion@gmail.com**
 
