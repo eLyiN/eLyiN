@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C, Javascript, React, Node.js.**
 
-- 📫 How to reach me **staffultimaunion@gmail.com**
+- 📫 How to reach me **aarribas@student.42malaga.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
