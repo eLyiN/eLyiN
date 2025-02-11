@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate Software Developer from Spain</h3>
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl91wcc9900450gjvj4p3wjti/stats?cursusId=21&coalitionId=274">
-</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elyin&label=Profile%20views&color=0e75b6&style=flat" alt="elyin" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyin&theme=matrix&column=-1" alt="elyin" /></a> </p>
@@ -13,7 +10,7 @@
 
 - 🌱 I’m currently learning **C, Javascript, React, Node.js.**
 
-- 📫 How to reach me **aarribas@student.42malaga.com**
+- 📫 How to reach me **info@shelakh.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
