@@ -6,12 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyin&theme=matrix&column=-1" alt="elyin" /></a> </p>
 <p align="center"> <a href="https://twitter.com/shelakh92" target="blank"><img src="https://img.shields.io/twitter/follow/shelakh92?logo=twitter&style=for-the-badge" alt="shelakh_92" /></a> </p>
 
-# Info
-
-- 🌱 I’m currently learning **C, Javascript, React, Node.js.**
-
-- 📫 How to reach me **info@shelakh.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shelakh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelakh" height="30" width="40" /></a>
